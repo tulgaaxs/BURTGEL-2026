@@ -1,0 +1,8 @@
+
+const productName = "Laptop";
+const price = 2500000;
+const quantity = 10;
+
+console.log("Бараа:", productName);
+console.log("Үнэ:", price);
+console.log("Тоо ширхэг:", quantity);
