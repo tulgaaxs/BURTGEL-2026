@@ -1,0 +1,8 @@
+
+product_name = "Laptop"
+price = 2500000
+quantity = 10
+
+print("Бараа:", product_name)
+print("Үнэ:", price)
+print("Тоо ширхэг:", quantity)
